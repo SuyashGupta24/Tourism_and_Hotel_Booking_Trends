@@ -499,67 +499,93 @@ You can even host your dashboard for free using:
   - GitHub Pages (for static parts)
   - This makes it instantly viewable by hiring managers or mentors — no downloads needed.
 
-### 📌 This project isn’t just a personal learning exercise — it’s designed as a fully replicable public GitHub project to help you stand out in hackathons, internships, and job applications.
+---
 
 
 <br><br><br><br><br><br>
 
-## 🖥️ Streamlit Demo to Showcase Your Skills — Not Just Code Zips
-
-Instead of sharing boring code folders or zip files, this project leverages **Streamlit** to present your work in the form of a **live, interactive demo** — just like a real product!
-
----
-
-### ✅ Why a Streamlit Demo Matters
-
-Hiring managers, professors, or mentors don’t want to unzip code and run Python scripts manually. They want to **see results immediately**.
-
-A deployed Streamlit dashboard allows them to:
-
-- ✅ View your project in action from any browser
-- ✅ Interact with filters and visualizations live
-- ✅ Understand insights without reading code
-
-This makes your project feel like a **professional portfolio piece** — not just an assignment.
-
----
-
-### 🚀 Try It Live (Optional Hosting)
-
-You can host this dashboard for **free** in less than 10 minutes using:
-
-#### 🔹 Option 1: Streamlit Cloud
-
-1. Create a [Streamlit Cloud](https://streamlit.io/cloud) account
-2. Connect your GitHub repo
-3. Click **Deploy**
-
-Done — now your project has a public URL like:
 
 
+## 📋 Interview Preparation Questions
 
-#### 🔹 Option 2: Render (for more flexibility)
+### 🔎 Project Understanding
 
-- Go to [Render.com](https://render.com/)
-- Create a new web service from your GitHub repo
-- Use `streamlit run scripts/dashboard.py` as start command
+1. **What was the main objective of your project?**
+   - Understand if you grasp the problem statement and real-world relevance.
+
+2. **Why did you choose to integrate tourism data with hotel bookings?**
+   - Tests your thought process in data augmentation and contextual analysis.
+
+3. **What insights did you discover from the dataset?**
+   - Checks your ability to extract meaningful conclusions.
+
+4. **What challenges did you face during data cleaning or merging?**
+   - Assesses your practical experience with messy real-world data.
+
+5. **How did you handle missing or inconsistent data in the project?**
+   - Tests data preprocessing knowledge using `pandas`.
 
 ---
 
-### 🎯 What It Proves
+### 📊 Data Analysis & Visualization
 
-By building and sharing a **hosted Streamlit demo**, you demonstrate:
+6. **Which pandas functions did you frequently use in analysis?**
+   - Demonstrates hands-on experience with the `pandas` library.
 
-- 💡 Data storytelling with interactivity
-- 🔍 Ability to clean and analyze real-world datasets
-- 📊 Use of modern visualization libraries like Plotly
-- ⚙️ End-to-end development from script to deploy
-- 🧠 Business understanding via trend interpretation
+7. **Why did you choose Plotly for visualization over Matplotlib/Seaborn?**
+   - Evaluates your reasoning behind tool selection for interactive visuals.
+
+8. **How did you make your dashboard interactive using Streamlit?**
+   - Judges your understanding of Streamlit components (e.g., `selectbox`, `multiselect`).
+
+9. **What kind of filtering or grouping techniques did you use?**
+   - Tests knowledge of `groupby`, `value_counts`, and filtering logic.
+
+10. **How did you aggregate yearly tourism data across Indian states?**
+    - Assesses data grouping and aggregation logic across multiple levels.
 
 ---
 
-> 📌 This isn’t just a project — it’s a **live, interactive showcase** of your Python and Data Analytics skills, built to impress and inspire.
+### ⚙️ Deployment & Architecture
+
+11. **Can you walk me through the structure of your GitHub repo?**
+    - Evaluates your organizational and documentation skills.
+
+12. **How would you deploy this dashboard for public use?**
+    - Tests your understanding of cloud platforms like Render or Streamlit Cloud.
+
+13. **What file did you use to manage project dependencies?**
+    - Looks for awareness of `requirements.txt` and virtual environments.
+
+14. **What are the advantages of using `.py` scripts in Streamlit instead of notebooks?**
+    - Distinguishes between development and production-ready tools.
 
 ---
 
+### 💡 Conceptual & Domain Understanding
 
+15. **What is ADR and why is it important in the hospitality industry?**
+    - Evaluates your grasp of industry-specific metrics.
+
+16. **How do seasonal trends affect hotel bookings and tourism together?**
+    - Checks your ability to relate data to business scenarios.
+
+17. **Can you explain the correlation (if any) between tourist inflow and hotel cancellations?**
+    - Tests critical thinking and ability to hypothesize from trends.
+
+18. **What are KPIs for a hotel and how are they reflected in your dashboard?**
+    - Demonstrates how your dashboard aligns with business goals.
+
+---
+
+### 🧠 Thinking Beyond
+
+19. **How would you improve this project if you had access to more data?**
+    - Explores your vision and ambition for project enhancement.
+
+20. **If this were used in a real hotel chain, what would be the next actionable step?**
+    - Evaluates business understanding and decision-making from data insights.
+
+---
+
+> ✅ **Tip:** For each question, prepare a brief but clear explanation backed with a visual or code reference from your project. This will help you stand out as both technically sound and business-savvy.
