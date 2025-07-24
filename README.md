@@ -67,7 +67,7 @@ An interactive data analytics dashboard built with **Streamlit**, combining real
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Tourism_and_Hotel_Booking_Trends.git
+   git clone https://github.com/SuyashGupta24/Tourism_and_Hotel_Booking_Trends.git
    cd Tourism_and_Hotel_Booking_Trends
    ```
 
