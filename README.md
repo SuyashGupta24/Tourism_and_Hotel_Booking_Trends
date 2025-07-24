@@ -1,4 +1,4 @@
-# 🧭 Tourism and Hotel Booking Trends Dashboard
+# 🧭 Tourism and Hotel Booking Trends
 
 An interactive data analytics dashboard built with **Streamlit**, combining real-world **hotel booking data** with **Indian tourism statistics**. This project helps visualize booking trends, cancellation behavior, country-wise customer segmentation, and inflow of both domestic and foreign tourists across years.
 
